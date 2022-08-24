@@ -6,4 +6,5 @@ Este es un curso introductorio para el lenguaje de programación Python creado c
 <!--- (![intro page](./intropage.png?raw=true)) -->
 
 
-<img src="intropage.png">
+<img src="images/introPage.png">
+
